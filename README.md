@@ -9,6 +9,6 @@ Install dependencies:
 
     make
     
-Init prject:
+Init project:
 
     flask run delivery/app.py
