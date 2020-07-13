@@ -1,2 +1,1 @@
-
-print("Hello from the other side")
+print("Hello this is delivery")
