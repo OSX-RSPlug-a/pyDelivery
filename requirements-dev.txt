@@ -2,8 +2,8 @@ black
 flake8
 flask-debugtoolbar
 flask-shell-ipython
-ipython
 ipdb
+ipython
 isort
 pytest
 pytest-flask
